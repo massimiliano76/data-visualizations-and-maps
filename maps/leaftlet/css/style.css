@@ -1,0 +1,48 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  position: relative;
+}
+
+#mapid { 
+  height: 100%;
+  position: relative;
+  z-index: 4;
+}
+
+#barChart {
+  margin: 0 0 60px 0;
+}
+
+#barChart[data-shown="no"],
+#mapid[data-shown="no"] {
+  display: none;
+}
+
+#myChart {
+  z-index: 4;
+  width: 100%;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  z-index: 10;
+  background-color: rgb(82, 82, 82);
+  width: 100%;
+  padding: 4px 0px;
+  color: whitesmoke;
+  font-family: monospace;
+  font-size: 16px;
+}
+
+span {
+  cursor: pointer;
+  margin: 0px 10px;
+}
+
+span:hover {
+  color: red;
+}
