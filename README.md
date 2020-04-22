@@ -5,8 +5,8 @@ deployed or put in production.**
 
 ## Before you start anything
 
-There are enough existing visualizations online on COVID-19 already. Please don't 
-add more unless you can maintain it well.
+There are enough existing visualizations online on COVID-19 already. Please
+don't add more unless you can maintain it well.
 
 ## Getting Started
 
@@ -18,6 +18,14 @@ Open `maps\leaftlet\index.html`.
 
 - Add choose primary location. Save to localstorage.
   - Add affected, recovered and deaths data.
+
+## Sources
+
+Sources and references are in the presentation.
+
+Data was taken from here in March:
+
+https://github.com/CSSEGISandData
 
 ## Notes
 
