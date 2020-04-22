@@ -21,7 +21,7 @@ Open `maps\leaftlet\index.html`.
 
 ## Sources
 
-Sources and references are in the presentation.
+Sources and references are in the presentation. Use LibreOffice Impress Version: 6.2.8.2 (x64) or a similar version on macOS. Alternatively, you can have a look at the PDF version in the same folder.
 
 Data was taken from here in March:
 
