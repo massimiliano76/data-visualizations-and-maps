@@ -43,3 +43,7 @@ https://docs.mapbox.com/help/troubleshooting/how-to-use-mapbox-securely/
 ## Google Maps Platform
 
 https://cloud.google.com/maps-platform/pricing
+
+## Chart.js
+
+https://www.chartjs.org/
